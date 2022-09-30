@@ -1,11 +1,8 @@
 <h3> Welcome, Padawan :wave: </h3>
 
-<p> Apaixonado por criatividade, resolução de problemas e jogos <p>
-  
-<h3> :wrench: Technology <h3>
+<h4> Front-End <h4>
 
-  <section display="inline-block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50px" />
-  </section>
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=orange)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=JavaScript&logoColor=yellow)
+
