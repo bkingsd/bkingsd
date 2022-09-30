@@ -1,12 +1,7 @@
- <h3> :telephone: Contatcs </h3>
-  
 ![LinkedIn](https://img.shields.io/badge/linkedin-323330.svg?style=for-the-badge&logo=linkedin&logoColor=blue&link=//linkedin)
 ![Gmail](https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=red)
 
 <h3> :man_technologist: About </h3>
-
-<p> Eu sou Brendo, apaixonado por computação desde 2008. incentiva a programação pelo jogo warcraft III, curiosidade ao saber o que se passava por tras da interface <br>
-<p> Desde então o meu foco é totalmente desenvolvimento fullstack
 
 <h3> :dagger: Front-End </h3>
   
