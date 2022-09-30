@@ -1,10 +1,6 @@
 <h1> Hello there, i'm Brendo </h1>
 
-<section>
-- Primeiro computador 2008 <br>
-- Primeiro contato com programação 2022 <br>
-- Apaixonado por resolver problemas e jogos rts <br>
-</section>
+Apaixonado por resolução de problemas e jogos RTS.
 
 <section>
 <h3> :wrench: Technology <h3>
