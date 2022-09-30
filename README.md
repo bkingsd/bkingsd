@@ -9,9 +9,6 @@
 
 <h4> :wrench: Technologies </h4>
 
-![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=orange) 
-![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <br> 
-![Git](https://img.shields.io/badge/git-323330.svg?style=for-the-badge&logo=git&logoColor=orange)
-![VsCode](https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
-![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=blue)
+![VsCode](https://img.shields.io/badge/-VsCode-323330?style=flat&logo=visual%20studio%20code&logoColor=blue)
+![Git](https://img.shields.io/badge/-git-323330.svg?style=flat&logo=git&logoColor=orange)
+![Windows](https://img.shields.io/badge/-Windows-323330.svg?style=flat&logo=windows&logoColor=blue)
