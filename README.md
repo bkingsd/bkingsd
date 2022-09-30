@@ -1,4 +1,4 @@
-<h2> Welcome, Padawan :wave: </h2>
+<h1> Welcome, Padawan :wave: </h1>
 
 <section>
 - Primeiro computador 2008 <br>
