@@ -9,7 +9,7 @@
 </section>
 
 <section>
-<h3> :cyclone: Others <h3>
+<h3> :wrench: Technology <h3>
 
 ![GIT](https://img.shields.io/badge/-GIT-333333?style=flat&logo=GIT&logoColor=orange)
 </section>
