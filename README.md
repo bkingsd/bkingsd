@@ -1,4 +1,4 @@
-## Welcom, Padawan :wave:
+# Welcom, Padawan :wave:
 
 Passionate about technology, problem solving and RTS games :heart:
 
