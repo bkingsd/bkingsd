@@ -1,6 +1,3 @@
-![LinkedIn](https://img.shields.io/badge/linkedin-323330.svg?style=for-the-badge&logo=linkedin&logoColor=blue&link=//linkedin)
-![Gmail](https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=red)
-
 <h3> :man_technologist: About </h3>
 <p> I'm Brendo, passionate about computing since 2008 <p>
 
