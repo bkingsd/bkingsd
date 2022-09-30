@@ -15,3 +15,7 @@
 <section style="display: inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60px" heigth="60px" />
   </section>
+
+<section style="display: inline">
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+</section>
