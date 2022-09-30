@@ -8,8 +8,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-323330?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
 
-<h3> :wrench: Technologies </h3>
-
-![Git](https://img.shields.io/badge/-git-323330.svg?style=flat&logo=git&logoColor=orange)
-![VsCode](https://img.shields.io/badge/-VsCode-323330?style=flat&logo=visual%20studio%20code&logoColor=blue)
-![Windows](https://img.shields.io/badge/-Windows-323330.svg?style=flat&logo=windows&logoColor=blue)
+<section display="inline-block">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" heigth="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" heigth="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45px" heigth="30px" />
+</section>
