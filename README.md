@@ -3,17 +3,17 @@
 <article>
 - My first computing 2008 <br>
 - Passionate about problem solving and RTS games <br>
-  </article>
-<br>
-
-<section align="center">
+ </article>
+  
+<section>
+<h4> :pushpin: Contact </h4>
 
 ![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=LINKEDIN&logoColor=blue)
+[![LinkedIn :]](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=LINKEDIN&logoColor=blue)
 </section>
 
 <section>
- <h4> Front-End</h4>
+ <h4> :dagger: Front-End</h4>
  
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=HTML5&logoColor=orange)
