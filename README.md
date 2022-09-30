@@ -12,9 +12,9 @@
 <section>
  <h4> Front-End</h4>
  
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=HTML5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=CSS3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <br>
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=HTML5&logoColor=orange) <br>
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=CSS3&logoColor=blue) <br>
 </section>
 
 <section>
