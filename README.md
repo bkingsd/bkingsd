@@ -1,4 +1,4 @@
-<h2> Welcome, Padawan :wave: </h2>
+<h3> Welcome, Padawan :wave: </h3>
 
 <p> Apaixonado por criatividade, resolução de problemas e jogos <p>
   
