@@ -3,9 +3,9 @@
 
 <h4> Front-End </h4>
 
-![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/-HTML-323330?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-323330?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
 
 <h4> :wrench: Technologies </h4>
 
