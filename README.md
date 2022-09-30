@@ -2,15 +2,12 @@
 <h2> :man_technologist: About Me </h2>
 <p> I'm Brendo, passionate about computing since 2008. <p>
 
-<h3> :dagger: Front-End </h3>
+<h3> :wrench: Technology </h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-323330?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-323330?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript) <br>
+![Git](https://img.shields.io/badge/---GIT---323330?style=flat&logo=GIT)
 
-<section display="inline-block">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" heigth="30px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px" heigth="30px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="45px" heigth="30px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" heigth="30px" />
-</section>
+![Gmail](https://img.shields.io/badge/-GMAIL-323330?style=flat&logo=GMAIL&logoColor=red)
+![Linkedin](https://img.shields.io/badge/-LINKEDIN-323330?style=flat&logo=LINKEDIN&logoColor=blue)
