@@ -1,6 +1,11 @@
-### Bem Vindo, Padawan :wave:
+### Welcom, Padawan :wave:
 
-Apaixonado por tecnologia, resolução de problemas e jogos RTS
+Passionate about technology, problem solving and RTS games :heart:
+
+#### :pushpin: Contact
+
+![Gmail](https://img.shields.io/badge/-GMAIL-333333?style=flat&logo=Gmail)
+![Linkedin](https://img.shields.io/badge/-LINKEDIN-333333?style=flat&logo=Linkedin&logoColor=blue)
 
 #### :wrench: Technology
 
