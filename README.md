@@ -1,6 +1,7 @@
 <h1> Hello there, i'm Brendo </h1>
 
-Apaixonado por resolução de problemas e jogos RTS.
+
+- Passionate about problem solving and RTS games
 
 <section>
 <h3> :wrench: Technology <h3>
