@@ -1,9 +1,6 @@
 <h1> Bem Vindo, Padawan :wave: </h1>
 
 <p> Apaixonado por tecnologia, resolução de problemas e jogos RTS </p>
-  
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=bkingsd&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkingsd&langs_count=8&theme=cobalt)](https://github.com/bkingsd/github-readme-stats)
 
 <section>
 <h4> :pushpin: Contact </h4>
@@ -27,4 +24,5 @@
 ![GIT](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=GIT&logoColor=orange)
 </section>
 
-
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=bkingsd&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkingsd&langs_count=8&theme=cobalt)](https://github.com/bkingsd/github-readme-stats)
