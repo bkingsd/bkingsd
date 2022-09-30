@@ -1,13 +1,13 @@
-# Welcom, Padawan :wave:
+### Welcom, Padawan :wave:
 
 Passionate about technology, problem solving and RTS games :heart:
 
-### :pushpin: Contact
+#### :pushpin: Contact
 
 ![Gmail](https://img.shields.io/badge/-GMAIL-333333?style=flat&logo=Gmail)
 ![Linkedin](https://img.shields.io/badge/-LINKEDIN-333333?style=flat&logo=Linkedin&logoColor=blue)
 
-### :wrench: Technology
+#### :wrench: Technology
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
