@@ -4,7 +4,7 @@ Passionate about technology, problem solving and RTS games :heart:
 
 #### :pushpin: Contact
 
-<a href="#" target="blank_">![Gmail](https://img.shields.io/badge/-GMAIL-333333?style=flat&logo=Gmail)</a>
+<a href="#" target="blank">![Gmail](https://img.shields.io/badge/-GMAIL-333333?style=flat&logo=Gmail)</a>
 <a href="#">![Linkedin](https://img.shields.io/badge/-LINKEDIN-333333?style=flat&logo=Linkedin&logoColor=blue)</a>
 
 #### :wrench: Technology
