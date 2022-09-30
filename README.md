@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" heigth="35px" />
   </section>
   
-  <h3>:dagger: Outros</h3>
+  <h4>:dagger: Outros</h4>
 <section style="display: inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60px" heigth="60px" />
   </section>
