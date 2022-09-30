@@ -1,7 +1,10 @@
 <h2> Welcome, Padawan :wave: </h2>
 
-<article>
-<p> Apaixonado por resolver problemas, criatividade e jogos RTS </p>
+<section>
+- Primeiro computador 2008 <br>
+- Primeiro contato com programação 2022 <br>
+- Apaixonado por resolver problemas e jogos rts <br>
+</section>
 
 <section>
 <h3> :wrench: Technology <h3>
