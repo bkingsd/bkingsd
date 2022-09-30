@@ -1,9 +1,6 @@
-<h1> Hello there, i'm Brendo </h1>
+<h1> Bem Vindo, Padawan :wave: </h1>
 
-<article>
-- My first computing 2008 <br>
-- Passionate about problem solving and RTS games <br>
- </article>
+<p> Apaixonado por tecnologia, resolução de problemas e jogos RTS </p>
   
 <section>
 <h4> :pushpin: Contact </h4>
