@@ -8,8 +8,8 @@
 <section>
 <h4> :pushpin: Contact </h4>
 
-![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)
-[![LinkedIn :]](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=LINKEDIN&logoColor=blue)
+![Gmail](https://img.shields.io/badge/Gmail-a92727?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-038bbb?style=for-the-badge&logo=LINKEDIN&logoColor=white)
 </section>
 
 <section>
