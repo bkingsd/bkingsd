@@ -8,11 +8,11 @@
   
   <h3> Others </h3>
  
-![Git](https://img.shields.io/badge/git-323330.svg?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=white)
-![VsCode](https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/git-323330.svg?style=for-the-badge&logo=git&logoColor=orange)
+![Windows](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=blue)
+![VsCode](https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
 
   <h3> Contatcs </h3>
   
-![LinkedIn](https://img.shields.io/badge/linkedin-323330.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=//linkedin)
-![Gmail](https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-323330.svg?style=for-the-badge&logo=linkedin&logoColor=blue&link=//linkedin)
+![Gmail](https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=red)
