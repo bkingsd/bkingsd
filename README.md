@@ -5,7 +5,7 @@ Passionate about technology, problem solving and RTS games :heart:
 #### :pushpin: Contact
 
 <a href="#">![Gmail](https://img.shields.io/badge/-GMAIL-333333?style=flat&logo=Gmail)</a>
-<a href="https://www.linkedin.com/in/brendoviegasp" target="blank_">![Linkedin](https://img.shields.io/badge/-LINKEDIN-333333?style=flat&logo=Linkedin&logoColor=blue)</a>
+<a href="https://www.linkedin.com/in/brendoviegasp" target="blank">![Linkedin](https://img.shields.io/badge/-LINKEDIN-333333?style=flat&logo=Linkedin&logoColor=blue)</a>
 
 #### :wrench: Technology
 
